@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_wa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbreeding/nodejs_wa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbreeding/nodejs_wa/issues"
+  },
+  "homepage": "https://github.com/tbreeding/nodejs_wa#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
+  }
+}
